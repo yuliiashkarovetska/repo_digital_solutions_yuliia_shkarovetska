@@ -2,20 +2,23 @@
     {
     "name": "Stefan",
     "alter": 21,
-    "kennt_json": true
-    
+    "hobbies": ["Tennis", "Angeln", "Schach"],
+    "adresse": {
+        "strasse": "Linienstr.",
+        "plz": "94538"
+        }
     },
+
     {
     "name": "Steffi",
     "alter": 21,
     "kennt_json": true
-    
     },
+    
     {
     "name": "StClaudia",
     "alter": null,
     "kennt_json": true
-    
-    },
+    }
 
 ]
