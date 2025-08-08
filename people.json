@@ -1,0 +1,21 @@
+[
+    {
+    "name": "Stefan",
+    "alter": 21,
+    "kennt_json": true
+    
+    },
+    {
+    "name": "Steffi",
+    "alter": 21,
+    "kennt_json": true
+    
+    },
+    {
+    "name": "StClaudia",
+    "alter": null,
+    "kennt_json": true
+    
+    },
+
+]
